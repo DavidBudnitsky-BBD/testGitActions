@@ -1,6 +1,10 @@
 def main():
-  print("Hello world!")
+    print("Hello world!")
+
+
 def testFunc():
-  print("Test")
+    print("Test")
+
+
 if __name__=="__main__":
-  main()    
+    main()    
